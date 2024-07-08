@@ -1,0 +1,2 @@
+# Mi Primer Proyecto
+Este proyecto se centra en la fascinante tarea de encriptar y desencriptar texto, ofreciendo una manera segura y eficiente de proteger la información. Esta herramienta convierte texto plano en código encriptado, garantizando que solo las partes autorizadas puedan acceder a los datos originales. Además, proporciona métodos intuitivos para desencriptar el texto, devolviendo la información a su forma legible con facilidad. Ideal para quienes buscan mejorar la seguridad en la comunicación y el manejo de datos sensibles.
